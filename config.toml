@@ -5,7 +5,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "PK"
 languageCode = "en-us"
-baseURL = "https://example.org/"
+baseURL = "https://bakasur9.github.io/"
 
 
 # Add your Disqus shortname here.
